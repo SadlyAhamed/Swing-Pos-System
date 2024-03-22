@@ -17,7 +17,7 @@ Introducing our Java Swing-based Point of Sale (POS) system, a robust desktop ap
 7. View All the Orders.
 ## Technologies used:-
 ### Front-End Development:
--  [<img src="Screenshot 2024-03-22 151905.png" width="80" height="80">](https://docs.oracle.com/javase/tutorial/uiswing/) Java Swing
+-  [<img src="Screensort/Swing.png" width="80" height="80">](https://docs.oracle.com/javase/tutorial/uiswing/) Java Swing
 -  [<img src="https://github.com/fatemazohor/fatemazohor/blob/main/svg/css3.svg" width="80" height="80">](https://github.com/fatemazohor)Css
 -  [<img src="https://github.com/fatemazohor/fatemazohor/blob/main/svg/javascript.svg" width="80" height="80">](https://github.com/fatemazohor) Javascript
 - [<img src="https://github.com/fatemazohor/fatemazohor/blob/main/svg/bootstrap-logo-shadow.png" width="80" height="80">](https://github.com/fatemazohor) BootStrap
