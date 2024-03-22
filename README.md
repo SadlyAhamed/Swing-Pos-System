@@ -34,7 +34,7 @@ Introducing our Java Swing-based Point of Sale (POS) system, a robust desktop ap
 :pushpin: Login page for Admin:
 Implement secure user authentication and authorization mechanisms to control access to sensitive features and data, ensuring data integrity and confidentiality.
 
-![ Login page](https://github.com/fatemazohor/SwingSMEMangagement/blob/main/Screenshot/login.png)
+![ Login page](https://github.com/SadlyAhamed/Swing-Pos-System/blob/main/Screensort/Screenshot%202024-03-22%20151905.png)
 
 :pushpin: Dashboard page for Admin:
 Our Java Swing-based Point of Sale (POS) system includes a dynamic dashboard feature, providing at-a-glance insights into crucial business metrics. The dashboard prominently displays total sales, purchase amount, and revenue percentage, offering a comprehensive overview of the shop's financial performance. With real-time updates and interactive visualization, owners can quickly assess their profitability and make informed decisions to drive growth. Experience the power of data-driven decision-making with our intuitive dashboard feature, empowering businesses to thrive in today's competitive market landscape.
