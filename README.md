@@ -29,7 +29,7 @@ Introducing our Java Swing-based Point of Sale (POS) system, a robust desktop ap
 - :  [<img src="Screensort/mysql.png" width="80" height="80">](https://github.com/SadlyAhame) MySQL
 - :  MySQL Workbench
 - :  Apache NetBeans
-- :  [<img src="Screenshot/Java.png" width="80" height="80">](https://www.java.com/en/download/help/whatis_java.html) Java JDK 17+
+- :  [<img src="Screensort/Java.png" width="80" height="80">](https://www.java.com/en/download/help/whatis_java.html) Java JDK 17+
   
 :pushpin: Login page for Admin:
 Implement secure user authentication and authorization mechanisms to control access to sensitive features and data, ensuring data integrity and confidentiality.
