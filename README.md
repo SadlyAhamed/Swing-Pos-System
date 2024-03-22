@@ -22,11 +22,11 @@ Introducing our Java Swing-based Point of Sale (POS) system, a robust desktop ap
 -  [<img src="https://github.com/fatemazohor/fatemazohor/blob/main/svg/javascript.svg" width="80" height="80">](https://github.com/fatemazohor) Javascript
 - [<img src="https://github.com/fatemazohor/fatemazohor/blob/main/svg/bootstrap-logo-shadow.png" width="80" height="80">](https://github.com/fatemazohor) BootStrap
 ### Back-End Development
--  [<img src="Screenshot/Swing.png" width="80" height="80">](https://github.com/fatemazohor) Java Swing
--  [<img src="Screenshot/mysql.png" width="80" height="80">](https://github.com/fatemazohor) MySQL
+-  [<img src="Screensort/Swing.png" width="80" height="80">](https://github.com/SadlyAhamed) Java Swing
+-  [<img src="Screensort/mysql.png" width="80" height="80">](https://github.com/SadlyAhame) MySQL
 
 **==== Software And Tools Required ======**
-- :  [<img src="Screenshot/mysql.png" width="80" height="80">](https://github.com/fatemazohor) MySQL
+- :  [<img src="Screensort/mysql.png" width="80" height="80">](https://github.com/SadlyAhame) MySQL
 - :  MySQL Workbench
 - :  Apache NetBeans
 - :  [<img src="Screenshot/Java.png" width="80" height="80">](https://www.java.com/en/download/help/whatis_java.html) Java JDK 17+
@@ -38,50 +38,40 @@ Implement secure user authentication and authorization mechanisms to control acc
 
 :pushpin: Dashboard page for Admin:
 Our Java Swing-based Point of Sale (POS) system includes a dynamic dashboard feature, providing at-a-glance insights into crucial business metrics. The dashboard prominently displays total sales, purchase amount, and revenue percentage, offering a comprehensive overview of the shop's financial performance. With real-time updates and interactive visualization, owners can quickly assess their profitability and make informed decisions to drive growth. Experience the power of data-driven decision-making with our intuitive dashboard feature, empowering businesses to thrive in today's competitive market landscape.
-![ Home page](https://github.com/fatemazohor/SwingSMEMangagement/blob/main/Screenshot/home.png)
+![ Home page](https://github.com/SadlyAhamed/Swing-Pos-System/blob/main/Screensort/Screenshot%202024-03-22%20151554.png)
 
 :pushpin: Product Add/Update page for Admin:
-Easily add new products to the shop inventory, including details such as name, description, category, quantity, and price.
-![ Add Product page](https://github.com/fatemazohor/SwingSMEMangagement/blob/main/Screenshot/add.png)
+Easily add new products stock in shop , including details such as product is, Product Name, Unit Price, Quantity, and Total Amount.
+![ Stock](https://github.com/SadlyAhamed/Swing-Pos-System/blob/main/Screensort/Screenshot%202024-03-22%20151706.png)
 
 :pushpin: Purchase Product page for Admin:
 Track purchases of new inventory items, including supplier details, purchase date, quantity, and cost per unit. Set and update prices for products, allowing for flexible pricing strategies and adjustments based on market conditions or business requirements.
-![ Purchase Product page](https://github.com/fatemazohor/SwingSMEMangagement/blob/main/Screenshot/purchase2.png)
+![ Purchase Product page](https://github.com/SadlyAhamed/Swing-Pos-System/blob/main/Screensort/Screenshot%202024-03-22%20151648.png)
 
-:pushpin: Register or search old Customer page for Admin:
+:pushpin: Register  Customer :
 Register new customers by capturing essential information such as name, contact details, and address for effective customer management.
-![ Order page](https://github.com/fatemazohor/SwingSMEMangagement/blob/main/Screenshot/order.png)
-![ Order2 page](https://github.com/fatemazohor/SwingSMEMangagement/blob/main/Screenshot/order2.png)
+![ Add Customer](https://github.com/SadlyAhamed/Swing-Pos-System/blob/main/Screensort/Screenshot%202024-03-22%20151724.png)
+
 
 :pushpin: Product Search for Sales:
 Effortlessly search for products within the inventory to facilitate sales transactions, ensuring quick and accurate selection for customers.
-![ Sales page](https://github.com/fatemazohor/SwingSMEMangagement/blob/main/Screenshot/cart2.png)
-:pushpin: Product Search for Sales:
-![ Sales page](https://github.com/fatemazohor/SwingSMEMangagement/blob/main/Screenshot/cart3.png)
+![ Sales page](https://github.com/SadlyAhamed/Swing-Pos-System/blob/main/Screensort/Screenshot%202024-03-22%20151612.png)
 
- :pushpin: Sales History Search:
- Easily retrieve sales history based on specified criteria such as date range and customer information, enabling efficient tracking and analysis of past transactions.
-![ Order Details page](https://github.com/fatemazohor/SwingSMEMangagement/blob/main/Screenshot/orderDetails.png)
-:pushpin: Sales History Search:
-![ Order Details page](https://github.com/fatemazohor/SwingSMEMangagement/blob/main/Screenshot/orderDetails2.png)
 
-:pushpin: Reporting and Analytics:
- Generate comprehensive reports and analytics on sales performance, inventory levels, customer trends, and others key metrics to support informed decision-making and business analysis.
-![ Sales Report page](https://github.com/fatemazohor/SwingSMEMangagement/blob/main/Screenshot/salesReport.png)
-:pushpin: Reporting and Analytics:
-![ customer List page](https://github.com/fatemazohor/SwingSMEMangagement/blob/main/Screenshot/customerList2.png)
-:pushpin: Reporting and Analytics:
-![ product Sales page](https://github.com/fatemazohor/SwingSMEMangagement/blob/main/Screenshot/productSales2.png)
+
+ :pushpin: Vendor Details:
+ Easily retrieve sales history based on specified criteria such as date range and Vendor information, enabling efficient  analysis and purchase product in vendors.
+![ Vendor Detail page](https://github.com/SadlyAhamed/Swing-Pos-System/blob/main/Screensort/Screenshot%202024-03-22%20151736.png)
+
+:pushpin: Employee List:
+![ Employee Details page](https://github.com/SadlyAhamed/Swing-Pos-System/blob/main/Screensort/Screenshot%202024-03-22%20151753.png)
+
+:pushpin: Product Return:
+
+A return page in a Swing software typically serves as a navigation point, allowing users to revert to a previous screen or step in a process. It provides a seamless way to backtrack through the application's interface, enhancing user experience and facilitating efficient navigation within the software's graphical user interface.
+![ Sales Return page](https://github.com/SadlyAhamed/Swing-Pos-System/blob/main/Screensort/Screenshot%202024-03-22%20151806.png)
 
 :pushpin: Reporting Delivery:
 Update Delivery status.
-![ delivery page](https://github.com/fatemazohor/SwingSMEMangagement/blob/main/Screenshot/delivery.png)
-:pushpin:  Reporting Delivery:
-![ delivery page](https://github.com/fatemazohor/SwingSMEMangagement/blob/main/Screenshot/delivery2.png)
-:pushpin:  Reporting Delivery:
-![ delivery page](https://github.com/fatemazohor/SwingSMEMangagement/blob/main/Screenshot/delivery3.png)
-:pushpin: PDF Invoice Generation:
-Generate professional-looking PDF invoices for completed sales transactions, including itemized lists of products sold, quantities, prices, taxes, and total amounts.
-![ Invoice page](https://github.com/fatemazohor/SwingSMEMangagement/blob/main/Screenshot/invoice-de2210cId14r95.png)
-:pushpin: Invoice QR code:
-![ qrcode page](https://github.com/fatemazohor/SwingSMEMangagement/blob/main/Screenshot/qrcode.png)
+![ Reporting page](https://github.com/SadlyAhamed/Swing-Pos-System/blob/main/Screensort/Screenshot%202024-03-22%20151816.png)
+
